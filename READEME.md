@@ -1,5 +1,7 @@
 The source code is an implementation of our method described in the paper "Guang-Hui Liu, Isabelle Bichindaritz*, Christopher Bartlett, and Boseon Byeon. Survival Analysis of Breast Cancer Utilizing Integrated Features with Ordinal Cox Model and Auxiliary Loss". 
 
+Because github limit that the uploaded file size cannot exceed 100Mb, two original mRNA and methylation datasets fail to upload in github repository. So the whole source code for the proposed method and the datasets have been put online available at https://pan.baidu.com/s/1sp356aQePGDj8vz2b89rpA (extracted code is: LGH0) for free academic use. You will be appreciated to download from this address.
+
 --Dependence
 
 Before running this code, you need install R and python. In our experiment, R3.62 and python 3.6 or more advanced version are tested. This code is tested in WIN7/win10 64 Bit. It should be able to run in other Linux or Windows systems.
